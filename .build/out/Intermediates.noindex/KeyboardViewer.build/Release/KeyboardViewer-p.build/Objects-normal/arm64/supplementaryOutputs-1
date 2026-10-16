@@ -1,0 +1,11 @@
+{
+  "/Users/marco/Developer/KeyboardViewer/Sources/KeyboardViewer/App/AppController.swift" : {
+    "abi-baseline-json" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/KeyboardViewer.abi.json",
+    "const-values" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/KeyboardViewer-primary.swiftconstvalues",
+    "dependencies" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/KeyboardViewer-primary.d",
+    "diagnostics" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/KeyboardViewer-primary.dia",
+    "swiftdoc" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/KeyboardViewer.swiftdoc",
+    "swiftmodule" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/KeyboardViewer.swiftmodule",
+    "swiftsourceinfo" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/KeyboardViewer.swiftsourceinfo"
+  }
+}

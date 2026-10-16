@@ -1,0 +1,121 @@
+{
+  "" : {
+    "const-values" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/KeyboardViewer-primary.swiftconstvalues",
+    "dependencies" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/KeyboardViewer-primary.d",
+    "diagnostics" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/KeyboardViewer-primary.dia",
+    "emit-module-dependencies" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/KeyboardViewer-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/KeyboardViewer-primary-emit-module.dia",
+    "pch" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/KeyboardViewer-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/KeyboardViewer-primary.swiftdeps"
+  },
+  "/Users/marco/Developer/KeyboardViewer/Sources/KeyboardViewer/App/AppController.swift" : {
+    "index-unit-output-path" : "/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/AppController.o",
+    "llvm-bc" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/AppController.bc",
+    "object" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/AppController.o"
+  },
+  "/Users/marco/Developer/KeyboardViewer/Sources/KeyboardViewer/App/KeyboardViewerApp.swift" : {
+    "index-unit-output-path" : "/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/KeyboardViewerApp.o",
+    "llvm-bc" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/KeyboardViewerApp.bc",
+    "object" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/KeyboardViewerApp.o"
+  },
+  "/Users/marco/Developer/KeyboardViewer/Sources/KeyboardViewer/App/OverlayState.swift" : {
+    "index-unit-output-path" : "/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/OverlayState.o",
+    "llvm-bc" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/OverlayState.bc",
+    "object" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/OverlayState.o"
+  },
+  "/Users/marco/Developer/KeyboardViewer/Sources/KeyboardViewer/Config/BindingIndex.swift" : {
+    "index-unit-output-path" : "/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/BindingIndex.o",
+    "llvm-bc" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/BindingIndex.bc",
+    "object" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/BindingIndex.o"
+  },
+  "/Users/marco/Developer/KeyboardViewer/Sources/KeyboardViewer/Config/Describe.swift" : {
+    "index-unit-output-path" : "/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/Describe.o",
+    "llvm-bc" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/Describe.bc",
+    "object" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/Describe.o"
+  },
+  "/Users/marco/Developer/KeyboardViewer/Sources/KeyboardViewer/Config/KarabinerConfig.swift" : {
+    "index-unit-output-path" : "/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/KarabinerConfig.o",
+    "llvm-bc" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/KarabinerConfig.bc",
+    "object" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/KarabinerConfig.o"
+  },
+  "/Users/marco/Developer/KeyboardViewer/Sources/KeyboardViewer/Config/Mods.swift" : {
+    "index-unit-output-path" : "/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/Mods.o",
+    "llvm-bc" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/Mods.bc",
+    "object" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/Mods.o"
+  },
+  "/Users/marco/Developer/KeyboardViewer/Sources/KeyboardViewer/Input/ConfigWatcher.swift" : {
+    "index-unit-output-path" : "/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/ConfigWatcher.o",
+    "llvm-bc" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/ConfigWatcher.bc",
+    "object" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/ConfigWatcher.o"
+  },
+  "/Users/marco/Developer/KeyboardViewer/Sources/KeyboardViewer/Input/GlobalHotKeys.swift" : {
+    "index-unit-output-path" : "/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/GlobalHotKeys.o",
+    "llvm-bc" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/GlobalHotKeys.bc",
+    "object" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/GlobalHotKeys.o"
+  },
+  "/Users/marco/Developer/KeyboardViewer/Sources/KeyboardViewer/Input/ModifierMonitor.swift" : {
+    "index-unit-output-path" : "/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/ModifierMonitor.o",
+    "llvm-bc" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/ModifierMonitor.bc",
+    "object" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/ModifierMonitor.o"
+  },
+  "/Users/marco/Developer/KeyboardViewer/Sources/KeyboardViewer/Input/UserCommandReceiver.swift" : {
+    "index-unit-output-path" : "/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/UserCommandReceiver.o",
+    "llvm-bc" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/UserCommandReceiver.bc",
+    "object" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/UserCommandReceiver.o"
+  },
+  "/Users/marco/Developer/KeyboardViewer/Sources/KeyboardViewer/System/HyperKeyApps.swift" : {
+    "index-unit-output-path" : "/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/HyperKeyApps.o",
+    "llvm-bc" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/HyperKeyApps.bc",
+    "object" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/HyperKeyApps.o"
+  },
+  "/Users/marco/Developer/KeyboardViewer/Sources/KeyboardViewer/System/KeyCodes.swift" : {
+    "index-unit-output-path" : "/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/KeyCodes.o",
+    "llvm-bc" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/KeyCodes.bc",
+    "object" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/KeyCodes.o"
+  },
+  "/Users/marco/Developer/KeyboardViewer/Sources/KeyboardViewer/System/KeyboardLayoutReader.swift" : {
+    "index-unit-output-path" : "/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/KeyboardLayoutReader.o",
+    "llvm-bc" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/KeyboardLayoutReader.bc",
+    "object" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/KeyboardLayoutReader.o"
+  },
+  "/Users/marco/Developer/KeyboardViewer/Sources/KeyboardViewer/System/MenuShortcutReader.swift" : {
+    "index-unit-output-path" : "/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/MenuShortcutReader.o",
+    "llvm-bc" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/MenuShortcutReader.bc",
+    "object" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/MenuShortcutReader.o"
+  },
+  "/Users/marco/Developer/KeyboardViewer/Sources/KeyboardViewer/System/SystemShortcuts.swift" : {
+    "index-unit-output-path" : "/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/SystemShortcuts.o",
+    "llvm-bc" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/SystemShortcuts.bc",
+    "object" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/SystemShortcuts.o"
+  },
+  "/Users/marco/Developer/KeyboardViewer/Sources/KeyboardViewer/System/UserKeyEquivalents.swift" : {
+    "index-unit-output-path" : "/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/UserKeyEquivalents.o",
+    "llvm-bc" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/UserKeyEquivalents.bc",
+    "object" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/UserKeyEquivalents.o"
+  },
+  "/Users/marco/Developer/KeyboardViewer/Sources/KeyboardViewer/UI/KeyboardLayout.swift" : {
+    "index-unit-output-path" : "/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/KeyboardLayout.o",
+    "llvm-bc" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/KeyboardLayout.bc",
+    "object" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/KeyboardLayout.o"
+  },
+  "/Users/marco/Developer/KeyboardViewer/Sources/KeyboardViewer/UI/KeyboardView.swift" : {
+    "index-unit-output-path" : "/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/KeyboardView.o",
+    "llvm-bc" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/KeyboardView.bc",
+    "object" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/KeyboardView.o"
+  },
+  "/Users/marco/Developer/KeyboardViewer/Sources/KeyboardViewer/UI/LabelFormatter.swift" : {
+    "index-unit-output-path" : "/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/LabelFormatter.o",
+    "llvm-bc" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/LabelFormatter.bc",
+    "object" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/LabelFormatter.o"
+  },
+  "/Users/marco/Developer/KeyboardViewer/Sources/KeyboardViewer/UI/OverlayPanel.swift" : {
+    "index-unit-output-path" : "/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/OverlayPanel.o",
+    "llvm-bc" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/OverlayPanel.bc",
+    "object" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/OverlayPanel.o"
+  },
+  "/Users/marco/Developer/KeyboardViewer/Sources/KeyboardViewer/UI/SectionPalette.swift" : {
+    "index-unit-output-path" : "/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/SectionPalette.o",
+    "llvm-bc" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/SectionPalette.bc",
+    "object" : "/Users/marco/Developer/KeyboardViewer/.build/out/Intermediates.noindex/KeyboardViewer.build/Release/KeyboardViewer-p.build/Objects-normal/arm64/SectionPalette.o"
+  }
+}

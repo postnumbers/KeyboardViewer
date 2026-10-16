@@ -1,0 +1,118 @@
+{
+    "_comment": "Two rules to merge into karabiner.json. 1) Replace the first manipulator of '[HyperIJKL] Capslock to Hyper' with the one below (same behaviour, plus it tells the overlay when Hyper goes down and up). 2) Add the 'KeyboardViewer' rule anywhere in complex_modifications.rules. The rule's second manipulator (Hyper + shift + /) switches app & system shortcuts on and off.",
+    "replacement_capslock_manipulator": {
+        "description": "capslock (press) -> esc; capslock (hold) -> Hyper",
+        "from": {
+            "key_code": "caps_lock",
+            "modifiers": {
+                "optional": [
+                    "any"
+                ]
+            }
+        },
+        "to": [
+            {
+                "set_variable": {
+                    "name": "HYPER",
+                    "value": 1
+                }
+            },
+            {
+                "send_user_command": {
+                    "endpoint": "/tmp/hyper-overlay.sock",
+                    "payload": {
+                        "hyper": true
+                    }
+                }
+            }
+        ],
+        "to_after_key_up": [
+            {
+                "set_variable": {
+                    "name": "HYPER",
+                    "value": 0
+                }
+            },
+            {
+                "send_user_command": {
+                    "endpoint": "/tmp/hyper-overlay.sock",
+                    "payload": {
+                        "hyper": false
+                    }
+                }
+            }
+        ],
+        "to_if_alone": [
+            {
+                "key_code": "escape"
+            }
+        ],
+        "type": "basic"
+    },
+    "new_rule": {
+        "description": "KeyboardViewer",
+        "manipulators": [
+            {
+                "conditions": [
+                    {
+                        "name": "HYPER",
+                        "type": "variable_if",
+                        "value": 1
+                    }
+                ],
+                "description": "slash -> toggle keyboard overlay",
+                "from": {
+                    "key_code": "slash",
+                    "modifiers": {
+                        "optional": [
+                            "caps_lock"
+                        ]
+                    }
+                },
+                "to": [
+                    {
+                        "send_user_command": {
+                            "endpoint": "/tmp/hyper-overlay.sock",
+                            "payload": {
+                                "command": "toggle"
+                            }
+                        }
+                    }
+                ],
+                "type": "basic"
+            },
+            {
+                "conditions": [
+                    {
+                        "name": "HYPER",
+                        "type": "variable_if",
+                        "value": 1
+                    }
+                ],
+                "description": "shift + slash -> app shortcuts on/off",
+                "from": {
+                    "key_code": "slash",
+                    "modifiers": {
+                        "mandatory": [
+                            "shift"
+                        ],
+                        "optional": [
+                            "caps_lock"
+                        ]
+                    }
+                },
+                "to": [
+                    {
+                        "send_user_command": {
+                            "endpoint": "/tmp/hyper-overlay.sock",
+                            "payload": {
+                                "command": "app-shortcuts"
+                            }
+                        }
+                    }
+                ],
+                "type": "basic"
+            }
+        ]
+    }
+}
