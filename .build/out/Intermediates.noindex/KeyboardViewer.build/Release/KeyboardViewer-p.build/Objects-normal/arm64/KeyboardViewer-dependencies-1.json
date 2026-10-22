@@ -2,678 +2,678 @@
   {
     "isFramework" : true,
     "moduleName" : "Accessibility",
-    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/Accessibility-LWKS51FNN73G.swiftmodule"
+    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/Accessibility-242OISPFU9MOW.swiftmodule"
   },
   {
     "isFramework" : true,
     "moduleName" : "AppKit",
-    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/AppKit-2PH8FNQFG2BG6.swiftmodule"
+    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/AppKit-2PUW2QO4RQECL.swiftmodule"
   },
   {
     "isFramework" : true,
     "moduleName" : "ColorSync",
-    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/ColorSync-1MRG8FR1KVJDC.swiftmodule"
+    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/ColorSync-2B3CPXV0GH70D.swiftmodule"
   },
   {
     "isFramework" : true,
     "moduleName" : "Combine",
-    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/Combine-328XA72D01BV5.swiftmodule"
+    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/Combine-2ZML9ZOMC0MCF.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "CoreAudio",
-    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/CoreAudio-3O7BF0AJPKA1H.swiftmodule"
+    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/CoreAudio-36BOV8KWFWPVS.swiftmodule"
   },
   {
     "isFramework" : true,
     "moduleName" : "CoreData",
-    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/CoreData-LWHUQ3HTLXYV.swiftmodule"
+    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/CoreData-2WH2GK059T8CF.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "CoreFoundation",
-    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/CoreFoundation-299PBHHJB4995.swiftmodule"
+    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/CoreFoundation-3J15YP5GTJFIB.swiftmodule"
   },
   {
     "isFramework" : true,
     "moduleName" : "CoreGraphics",
-    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/CoreGraphics-1Z3AU8AJQSN7T.swiftmodule"
+    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/CoreGraphics-1FTLBRNNB8YAS.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "CoreImage",
-    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/CoreImage-3OBHMGS3259G7.swiftmodule"
+    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/CoreImage-1DBVJJKNWC4KJ.swiftmodule"
   },
   {
     "isFramework" : true,
     "moduleName" : "CoreMedia",
-    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/CoreMedia-2ILLVX7PM3CEL.swiftmodule"
+    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/CoreMedia-2KM2X8MN6RT69.swiftmodule"
   },
   {
     "isFramework" : true,
     "moduleName" : "CoreText",
-    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/CoreText-1MZKCLY8R5ETL.swiftmodule"
+    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/CoreText-WR12YUQLEHX0.swiftmodule"
   },
   {
     "isFramework" : true,
     "moduleName" : "CoreTransferable",
-    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/CoreTransferable-2ANDJ0IHCK6MW.swiftmodule"
+    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/CoreTransferable-2O66UX972DBAN.swiftmodule"
   },
   {
     "isFramework" : true,
     "moduleName" : "CoreVideo",
-    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/CoreVideo-13VS1S56RV1GV.swiftmodule"
+    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/CoreVideo-1FAOX0XGD7EWZ.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "Darwin",
-    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/Darwin-10WNV45LO1N0U.swiftmodule"
+    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/Darwin-1M2RNP6ESB92G.swiftmodule"
   },
   {
     "isFramework" : true,
     "moduleName" : "DataDetection",
-    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/DataDetection-16A5R22LZ9OE2.swiftmodule"
+    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/DataDetection-13VWH4FMNTS5V.swiftmodule"
   },
   {
     "isFramework" : true,
     "moduleName" : "DeveloperToolsSupport",
-    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/DeveloperToolsSupport-IWPQSLY1GIH5.swiftmodule"
+    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/DeveloperToolsSupport-15559XYBBLA6S.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "Dispatch",
-    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/Dispatch-D6UC55Z3QEPB.swiftmodule"
+    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/Dispatch-1QJ5T202KR1NZ.swiftmodule"
   },
   {
     "isFramework" : true,
     "moduleName" : "Foundation",
-    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/Foundation-1R09CT1OD41BW.swiftmodule"
+    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/Foundation-205HLE3LZ6CJY.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "IOKit",
-    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/IOKit-2W8BSZIA6DJ5V.swiftmodule"
+    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/IOKit-29Q5FVJHZ9PM3.swiftmodule"
   },
   {
     "isFramework" : true,
     "moduleName" : "ImageIO",
-    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/ImageIO-LKB5VUU86M2L.swiftmodule"
+    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/ImageIO-17XD1I95P5AFH.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "Metal",
-    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/Metal-2TQHA7V16PI58.swiftmodule"
+    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/Metal-2WZBNS581GDRQ.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "OSLog",
-    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/OSLog-1ATTAF32JEPXJ.swiftmodule"
+    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/OSLog-2VH22J3W26R96.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "ObjectiveC",
-    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/ObjectiveC-3NIEIUM512D11.swiftmodule"
+    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/ObjectiveC-2WBGO5V8I6JC1.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "Observation",
-    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/Observation-SR28UZ4L36CZ.swiftmodule"
+    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/Observation-QZFRZ4YBRPMW.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "QuartzCore",
-    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/QuartzCore-11EH1BZQBYU5Z.swiftmodule"
+    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/QuartzCore-CRWF7HIOWTJ8.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "Spatial",
-    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/Spatial-2F0DIPSYCQ393.swiftmodule"
+    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/Spatial-2DKV6OY5A5U09.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "Swift",
-    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/Swift-19DHGSPEZFQY6.swiftmodule"
+    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/Swift-2JPN6EX2EMLPW.swiftmodule"
   },
   {
     "isFramework" : true,
     "moduleName" : "SwiftUI",
-    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/SwiftUI-330TDEKRZBPP5.swiftmodule"
+    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/SwiftUI-1SFDK2GDRB7M0.swiftmodule"
   },
   {
     "isFramework" : true,
     "moduleName" : "SwiftUICore",
-    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/SwiftUICore-3ISMCN1ALR4ON.swiftmodule"
+    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/SwiftUICore-3E7FJ0EM9OXAO.swiftmodule"
   },
   {
     "isFramework" : true,
     "moduleName" : "Symbols",
-    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/Symbols-3VR367SNTNUD6.swiftmodule"
+    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/Symbols-2BF39IE9J0TNN.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "Synchronization",
-    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/Synchronization-SM9ZOWU3BALQ.swiftmodule"
+    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/Synchronization-L7JJNGWTGXNS.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "System",
-    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/System-3UG2DFQN5ZEZ5.swiftmodule"
+    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/System-3Q12FLXESG8B0.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "UniformTypeIdentifiers",
-    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/UniformTypeIdentifiers-37N9VTF8MK5T6.swiftmodule"
+    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/UniformTypeIdentifiers-6RML3NAR4K6V.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "XPC",
-    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/XPC-19NJXL4K4OZIY.swiftmodule"
+    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/XPC-36OZUFPRVKOFP.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "_Builtin_float",
-    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_float-9JC7FZSBZPWE.swiftmodule"
+    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_float-2COG06AMDQ3SD.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "_Concurrency",
-    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/_Concurrency-33SG1NAO0EE53.swiftmodule"
+    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/_Concurrency-8LODIQR7Z77Y.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "_DarwinFoundation1",
-    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/_DarwinFoundation1-18U59B308CPW9.swiftmodule"
+    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/_DarwinFoundation1-RCLT74D6DJQ0.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "_DarwinFoundation2",
-    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/_DarwinFoundation2-168TEPF008OUQ.swiftmodule"
+    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/_DarwinFoundation2-2D5GV6D1RJGLZ.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "_DarwinFoundation3",
-    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/_DarwinFoundation3-3B37I7GT8LMUJ.swiftmodule"
+    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/_DarwinFoundation3-PFO94UW5OQSI.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "_StringProcessing",
-    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/_StringProcessing-2O1CIE3L12DQL.swiftmodule"
+    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/_StringProcessing-2GWKG4C5GSOIY.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "os",
-    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/os-36865AIEPWLG1.swiftmodule"
+    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/os-3SO0B311TQ44M.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "simd",
-    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/simd-2BPB7DGPWWVB0.swiftmodule"
+    "modulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/simd-3MO890ZYOQY4A.swiftmodule"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/Accessibility.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/Accessibility-1EG3OIILNMZSK3SXI0CC7FCMX.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/Accessibility-2C7EM51XOD3XHXMGKBKTZ3Q0N.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Accessibility"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/AppKit.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/AppKit-CQCA31B9G0CQS4LYZ3GFK98H.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/AppKit-4M15E9289QGCWZ5B7BL2K3DJB.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "AppKit"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/ApplicationServices.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/ApplicationServices-9FVPJQFCMO3FWYRGQPVUK3FRK.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/ApplicationServices-D2DI45AABGQQFA24P08YEQQI5.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ApplicationServices"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/CFNetwork.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/CFNetwork-AXRHE63TN7W2MCT4JGHRGXGHU.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/CFNetwork-7JUXKIYSGRU7WD7H4P3LUUVGG.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CFNetwork"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/cups.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/CUPS-5BVTCV9IOXXGMBH9C1DO9G8RZ.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/CUPS-8LFQABXXVKL3DGAISZHTK3ZK6.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CUPS"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/Carbon.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/Carbon-A8UTIUAIHPLNLHOKQVMIG4FV1.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/Carbon-5C6GO6Z91GP2Q58QO24V3B9OS.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Carbon"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/ColorSync.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/ColorSync-55RUYVNP9CH3JJ5ILS9TJTIYG.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/ColorSync-8M9BW3BD0TBYZC7WOHPKBD05O.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ColorSync"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/CoreAudio.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/CoreAudio-9CG4D5NIHCUX1RO2ZWU034URB.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/CoreAudio-3HCFMRCWY4OXNDNGSW2Z9WPGA.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreAudio"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/CoreAudioTypes.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/CoreAudioTypes-AAR4CEF45R5DJKXCISKPHONIE.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/CoreAudioTypes-729E23TCBMY19TEBMQ5ZHL8XU.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreAudioTypes"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/CoreData.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/CoreData-5ADVS5CG738FDUN1O90WA00VF.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/CoreData-5KOAYZLGL4ZE6FISG6Z36KZEH.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreData"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/CoreFoundation.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/CoreFoundation-DICFGH3EEPESE83GDQW0YVKFX.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/CoreFoundation-AWP38DP0ZSE95RXMD6A6CIUQ4.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreFoundation"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/CoreGraphics.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/CoreGraphics-EE978ANOZNGRKVZYRDGOHI0X3.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/CoreGraphics-CQ9VCTBEALVJ3OUHZVED9B8N4.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreGraphics"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/CoreImage.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/CoreImage-2UZX2PPRIHH3QTL5USSCL1Q0P.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/CoreImage-6A4P5JHAL1SHNYV1G54INBYII.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreImage"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/CoreMedia.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/CoreMedia-AMJISD050L99835T7GBE4B0M6.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/CoreMedia-ACLE8NSF8DH980240Q5XJ2BYT.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreMedia"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/CoreServices.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/CoreServices-11GMFOCUJ0I59ALTTRSG72XGU.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/CoreServices-C5BXCL4NKF5J2QK57XNRU9XEE.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreServices"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/CoreText.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/CoreText-9W9Y8YICUNFG7W1GAV4GJWZ0F.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/CoreText-1FZPFGKYAVK152XJP5X7CGIBS.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreText"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/CoreTransferable.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/CoreTransferable-DVVP1EZ1GNKSN7N6G7LJPTQGI.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/CoreTransferable-2DDQGHPEN4H5N7CBUNQBUV2SE.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreTransferable"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/CoreVideo.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/CoreVideo-7BZ7YSVPHFZIUQZ3BL2IY81XU.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/CoreVideo-7ZMDSWL8Q4A02BKT8LKPF8R3Y.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreVideo"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/Darwin.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/Darwin-C2XCO9HIYGUV1B2MBVJMF5100.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/Darwin-6ECQ7TKXE3W1CYT0N0XBYWPF0.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Darwin"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/DataDetection.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/DataDetection-34P7008UUQXUA8MMITSBH5F8J.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/DataDetection-A03YA62A86S7HVB7XU7FK0UGB.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "DataDetection"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/DeveloperToolsSupport.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/DeveloperToolsSupport-F3WQNC7M20IDVVNMBW38UW2HN.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/DeveloperToolsSupport-E082VTJ3QALKF94FZTEIT9O39.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "DeveloperToolsSupport"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/DiskArbitration.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/DiskArbitration-CERL92HDIPNLULA2H1F6P33DB.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/DiskArbitration-ESPDP6AT3WJRQ2FPCNVXWKB6A.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "DiskArbitration"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/dispatch.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/Dispatch-8ACXC2BISU01D696FXYLIOYYI.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/Dispatch-YKVA8P1HNGV03GIITXV741A5.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Dispatch"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/Foundation.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/Foundation-9TFB8FPI1ERF0HAMO5WPFM8T0.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/Foundation-4EYAX46H5Y6SO2UQMG06OZQ9J.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Foundation"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/IOKit.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/IOKit-6GT7H6OZJP2KQYP95G39TOQDX.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/IOKit-8ZXVSCKX1ZOJVR18ZKZ4Y58G3.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "IOKit"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/IOSurface.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/IOSurface-I9QA3Q5NTNH4H8D3XCPE23RA.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/IOSurface-CI1I73CJQTU6753A87INE3OVW.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "IOSurface"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/ImageIO.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/ImageIO-7T3T4EYDUA0Q7T7E2B5GZVUXL.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/ImageIO-D79GBMPKJZCHF96RQ0ZYCQ91D.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ImageIO"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/DarwinBasic.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/MachO-5B3G8CH7TSIPIV0039B9D7J2E.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/MachO-3IONN6QUPKRWH1V8DV6U7HODW.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "MachO"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/Metal.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/Metal-82UACAHTQ170WO3FM4B584X5P.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/Metal-DU3AVIQ56CUVIVWP3LUTGLR1F.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Metal"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/OSLog.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/OSLog-1A72LL70FR5QJL4CCH525CJ6X.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/OSLog-1WE07DXP7ITH3YZJAKH4ZSOBF.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "OSLog"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/ObjectiveC.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/ObjectiveC-6TA0KHRIPGVD9R80RUN6K2AC9.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/ObjectiveC-4VCKLAELLEN2OFFQ51XY1RGNG.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ObjectiveC"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/OpenGL.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/OpenGL-BICB8EL2XCQMJFMIUZVZJKNYY.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/OpenGL-3515MXOEFAQNG2C1X6X0XOO60.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "OpenGL"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/QuartzCore.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/QuartzCore-6IRTE5OU7T97EYS53M57OU48T.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/QuartzCore-3A1EYWYOJV1V9YVZ8X0R1X0MS.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "QuartzCore"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/Security.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/Security-8AUZVR6RIY1WT44VYEA0VHC9E.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/Security-CL52BK9ZX98UVYBVMZ79UV5OD.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Security"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/Spatial\/module.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/Spatial-CHXHJM2J8SGS7ZH87ANVTVBU2.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/Spatial-1RNAFMR0LMX048988YYIURK9E.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Spatial"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/lib\/swift\/shims\/module.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/SwiftShims-7FHE04QXMKMOYSZZEYK658WE1.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/SwiftShims-5GQA47FM9D4SPSQEKUMOIYDAO.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "SwiftShims"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/SwiftUI.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/SwiftUI-C9NP5J7L6VSUBXJGZDOP5FC4Q.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/SwiftUI-3U0N1N6WGHMXR45SZ3B35V8RA.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "SwiftUI"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/SwiftUICore.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/SwiftUICore-98BVTZ13DJ4AEQB0D5Q16C7WL.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/SwiftUICore-BXWQ3IX5J4VRECOWS18DV0N95.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "SwiftUICore"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/Symbols.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/Symbols-47GZD4JPGAIX6CRA4GXII4L59.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/Symbols-83JX8XE6YN2YIY3ELJCDGCCBP.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Symbols"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/UniformTypeIdentifiers.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/UniformTypeIdentifiers-AF9MXE7IASN7L8IALOTKPF960.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/UniformTypeIdentifiers-B3J891GXM9NRYY5374ASOCB3G.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "UniformTypeIdentifiers"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/xpc.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/XPC-D7U6K3QQJU796MEI3YQGI8FR8.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/XPC-DQ3DEUACUE7DLJ1RO67W6PMLI.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "XPC"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/DarwinFoundation1.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/_AvailabilityInternal-3OQ1UQ8J59FDH6R03HILQ9VDD.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/_AvailabilityInternal-6O3KVPJLU6X42ZGMHJG0NXWPQ.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_AvailabilityInternal"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_float-5EQQL363P7A2RQAK3OOY428LD.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_float-8G9Y9AE4KCLCP5RV17N0DEP05.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_float"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_intrinsics-BUHENEE0B200Z4A5NMEBU41XW.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_intrinsics-DOHAZFUZD287T31Z22CTA9QWR.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_intrinsics"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_inttypes-3GOBNQTXPE6KSCDGX5NMWBL6G.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_inttypes-9DH6I2H5BUA3XCL1BQ9JWM2VK.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_inttypes"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_limits-6H5KFCQXSBDTYXF04D5REH6XN.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_limits-6CQCGH3VEIDSO9IHL8XSZMZBZ.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_limits"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_stdarg-5N8QBXVUTLKOA50WVRL03AA26.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_stdarg-59YP87GA2HQ5WCV911NWWCLAK.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_stdarg"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_stdatomic-CPL6MR0ONKTZWZ3DMOWYNX8BW.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_stdatomic-IC25AVZ984OPARN4XH6YKAGY.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_stdatomic"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_stdbool-47LIBWQALC7CZ0YAK54RVV7L8.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_stdbool-6AN9HRDKDPXBHAJULMY63086G.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_stdbool"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_stddef-D6ROCB0I6GH0RS3ST5VVNRVIU.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_stddef-6J3QP9M2N3WMB04KA4A29PIVP.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_stddef"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_stdint-CWBONBQOUALPFRMKESXABAWAZ.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_stdint-D4XOPWYBK1FZES1GVZUSFED56.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_stdint"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_tgmath-4204U5ZA8QZ8185K3W5WHIIZR.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_tgmath-6GVMUDSMSLPVZEHIMG9M4CCOC.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_tgmath"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/DarwinFoundation1.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/_DarwinFoundation1-AOC1ADCJ6D5WNOFV8GH6AU0V2.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/_DarwinFoundation1-D1F1FVHDXRR8JW8GCQ1OB3212.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_DarwinFoundation1"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/DarwinFoundation2.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/_DarwinFoundation2-B9MGZUIYJSDB5U9G7QSFUNC5I.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/_DarwinFoundation2-9H2J5856JL5FYIDHN4JDQ7AGY.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_DarwinFoundation2"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/DarwinFoundation3.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/_DarwinFoundation3-E0V78SDXZYRL5ZJYLTY3CM9TT.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/_DarwinFoundation3-B4X27G695IV9GB8GTMB5I1J1Z.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_DarwinFoundation3"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/lib\/swift\/shims\/module.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/_SwiftConcurrencyShims-427C80LO3WMZQ0UKZHEZYMLU3.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/_SwiftConcurrencyShims-2DL04LZVACP8IK3VBTT846V2C.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_SwiftConcurrencyShims"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/launch.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/launch-5YZXGVD0UGKHM7JYQ1G0YLS4H.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/launch-AWMPXI78D5L0XFS0I07582DR5.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "launch"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/libDER\/module.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/libDER-8526T8S149DXK5BG8MFEUWJFX.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/libDER-C2H7KSH3DRI02ACNSZLRMDX0P.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "libDER"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/libkern.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/libkern-AS9WH7RJNJYPFE70LL0FK5HUN.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/libkern-85FDF0QHCGGGRTJNQSCLFVNRU.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "libkern"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/os.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/os-6AOK411S42KVCP00YSZORHCZS.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/os-F3KWVKXQC3QFJN6V397AWL647.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "os"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/os.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/os_object-779B11PWFNOZPIQXV91D6ADM4.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/os_object-BO4ZF62NRG3XVCZNWFW9XKZYU.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "os_object"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/os.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/os_workgroup-BHPHINCEA5LY4GP9EMVWFUM22.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/os_workgroup-BQFGZI9AQZGNEHY3XJJW5903G.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "os_workgroup"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/ptrauth-56G57LJ0FTEQSKTZFGUW78SE8.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/ptrauth-B3M70OWOPF9P1C56L8IGTXLRZ.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ptrauth"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/ptrcheck-BXL2B60FUJROEO8E3M21Z9L7P.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/ptrcheck-ATA7Q9FPY6FDL0UXT7F8RS2MT.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ptrcheck"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/simd\/module.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/simd-BVJHP3PF3Q5SBNCJ94Y1961WZ.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/simd-6GJXXQD6NL2VSWSW5UYFV8QU3.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "simd"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/c_standard_library.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/string_h-254ADFV8IOVFKMZYK5B8VPZZW.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/string_h-ESMJN85D4DO5PXZEY56F4R9E1.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "string_h"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/DarwinFoundation2.modulemap",
-    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/sys_types-9SXOPWQB7QH0XMSBQW8Q07E4W.pcm",
+    "clangModulePath" : "\/Users\/marco\/Developer\/KeyboardViewer\/.build\/out\/SDKExplicitPrecompiledModules\/sys_types-CJ2LYEIMVUD1DLPYI9YHN828J.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "sys_types"

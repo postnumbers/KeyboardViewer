@@ -49,7 +49,7 @@ struct KeyboardContent: View {
             header(bindingCount: actionCount)
                 .frame(width: KeyboardMetrics.rowWidth * scale)
 
-            ForEach(Array(KeyboardLayout.rows.enumerated()), id: \.offset) { rowIndex, row in
+            ForEach(Array(KeyboardLayout.rows(for: state.physicalLayout).enumerated()), id: \.offset) { rowIndex, row in
                 HStack(spacing: gap) {
                     ForEach(row) { slot in
                         slotView(slot, layer: layer, height: rowIndex == 0 ? unit * 0.7 : unit)
@@ -132,6 +132,22 @@ struct KeyboardContent: View {
                 isActive: isActive(def),
                 isDimmed: isPreview
             )
+        case .isoReturn(let def, let top, let bottom):
+            // Laid out as one row high; the key itself reaches down into the
+            // next row, where that row leaves a spacer for it.
+            KeyCapView(
+                def: def,
+                legend: state.legend(for: def),
+                binding: layer[def.code],
+                size: CGSize(width: width(top), height: height * 2 + gap),
+                scale: scale,
+                isActive: isActive(def),
+                isDimmed: isPreview,
+                isoReturn: (bottomWidth: width(bottom), topHeight: height)
+            )
+            .frame(width: width(top), height: height, alignment: .top)
+        case .spacer(let w):
+            Color.clear.frame(width: width(w), height: height)
         case .stacked(let top, let bottom):
             let half = (unit - gap) / 2
             VStack(spacing: gap) {
@@ -178,6 +194,13 @@ struct KeyCapView: View {
     let isActive: Bool
     let isDimmed: Bool
     var compact = false
+    /// Set for the L-shaped ISO Return: the width of the part that reaches
+    /// down, and the height of the top part (where the text goes).
+    var isoReturn: (bottomWidth: CGFloat, topHeight: CGFloat)? = nil
+
+    private var outline: KeyOutline {
+        KeyOutline(radius: 6 * scale, bottomWidth: isoReturn?.bottomWidth, topHeight: isoReturn?.topHeight)
+    }
 
     /// Medium grey for held modifier keys (⇧ ⌃ ⌥ ⌘ fn and Hyper).
     static let activeModifierFill = Color(nsColor: NSColor(srgbRed: 142.0 / 255, green: 142.0 / 255, blue: 147.0 / 255, alpha: 1))
@@ -221,10 +244,11 @@ struct KeyCapView: View {
         .padding(.horizontal, 3 * scale)
         .padding(.top, (compact ? 1 : 4) * scale)
         .padding(.bottom, (compact ? 1 : 3) * scale)
-        .frame(width: size.width, height: size.height, alignment: compact ? .center : .top)
-        .background(RoundedRectangle(cornerRadius: 6 * scale, style: .continuous).fill(fill))
+        .frame(width: size.width, height: isoReturn?.topHeight ?? size.height, alignment: compact ? .center : .top)
+        .frame(width: size.width, height: size.height, alignment: .top)
+        .background(outline.fill(fill))
         .overlay(
-            RoundedRectangle(cornerRadius: 6 * scale, style: .continuous)
+            outline
                 .strokeBorder(
                     stroke,
                     style: StrokeStyle(
@@ -263,5 +287,49 @@ struct KeyCapView: View {
         guard let b = binding else { return legend }
         let scope = b.isGlobal ? "\nApplies with or without Hyper" : ""
         return "\(b.title)\n\(b.detail)\nRule: \(b.ruleName)\(scope)"
+    }
+}
+
+/// A key's outline: a rounded rectangle, or the ISO Return's upside-down L
+/// (full width at the top, `bottomWidth` wide below `topHeight`, right-aligned).
+struct KeyOutline: InsettableShape {
+    var radius: CGFloat
+    var bottomWidth: CGFloat? = nil
+    var topHeight: CGFloat? = nil
+    var inset: CGFloat = 0
+
+    func inset(by amount: CGFloat) -> KeyOutline {
+        var copy = self
+        copy.inset += amount
+        return copy
+    }
+
+    func path(in rect: CGRect) -> Path {
+        let r = rect.insetBy(dx: inset, dy: inset)
+        guard let bottomWidth, let topHeight else {
+            return Path(roundedRect: r, cornerRadius: max(radius - inset, 0), style: .continuous)
+        }
+        let bw = bottomWidth - 2 * inset
+        let th = topHeight - 2 * inset
+        let rad = max(radius - inset, 0)
+        // Corners, clockwise from the top left; the fifth is the inside corner.
+        let points = [
+            CGPoint(x: r.minX, y: r.minY),
+            CGPoint(x: r.maxX, y: r.minY),
+            CGPoint(x: r.maxX, y: r.maxY),
+            CGPoint(x: r.maxX - bw, y: r.maxY),
+            CGPoint(x: r.maxX - bw, y: r.minY + th),
+            CGPoint(x: r.minX, y: r.minY + th),
+        ]
+        var path = Path()
+        let start = CGPoint(x: (points[0].x + points[1].x) / 2, y: points[0].y)
+        path.move(to: start)
+        for i in 1...points.count {
+            let corner = points[i % points.count]
+            let next = points[(i + 1) % points.count]
+            path.addArc(tangent1End: corner, tangent2End: next, radius: rad)
+        }
+        path.closeSubpath()
+        return path
     }
 }

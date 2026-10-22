@@ -182,6 +182,8 @@ final class AppController {
     }
 
     private func reloadKeyboardLayout() {
+        state.keyLegends = KeyboardLayoutReader.keyLegends()
+        state.detectedPhysicalLayout = KeyboardLayoutReader.detectedPhysicalLayout()
         state.standardFunctionKeys = FunctionKeys.standardFunctionKeys()
         keyMap = KeyboardLayoutReader.characterMap()
         state.optionCharacters = KeyboardLayoutReader.optionCharacterBindings()
@@ -306,6 +308,9 @@ final class AppController {
     /// Shown when pinned; while Hyper is held (after a short delay); and,
     /// if that option is on, while ⌘ ⌥ ⌃ are held (after a longer delay).
     private func refreshVisibility() {
+        // Another keyboard may have been used since: check its shape.
+        let shape = KeyboardLayoutReader.detectedPhysicalLayout()
+        if state.detectedPhysicalLayout != shape { state.detectedPhysicalLayout = shape }
         panel.showPinned(state.pinned)
 
         if state.pinned {

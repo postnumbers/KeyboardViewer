@@ -3,10 +3,13 @@ import Foundation
 /// Turns Karabiner events into short human-readable labels.
 enum Describe {
 
-    /// Uses the manipulator description when it follows the "keys -> action"
-    /// convention (all of Marco's rules do), otherwise the output summary.
+    /// The label for a binding, from its description:
+    /// - "keys -> action": the part after "->" ("Safari")
+    /// - no "->": the whole description
+    /// - no description (or nothing after "->"): the output summary
     static func title(description: String?, fallback: String) -> String {
-        guard let d = description, let arrow = d.range(of: "->") else { return fallback }
+        guard let d = description?.trimmingCharacters(in: .whitespaces), !d.isEmpty else { return fallback }
+        guard let arrow = d.range(of: "->") else { return d }
         let t = d[arrow.upperBound...].trimmingCharacters(in: .whitespaces)
         return t.isEmpty ? fallback : t
     }

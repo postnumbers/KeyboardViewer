@@ -43,6 +43,12 @@ private struct MenuContent: View {
         Toggle("Show While ⌘ ⌥ ⌃ Are Held", isOn: $state.showWhileModifiersHeld)
         Toggle("Show While Hyper Is Held", isOn: $state.autoShowOnHyper)
             .disabled(!state.hyperAvailable)
+        Picker("Keyboard Shape", selection: $state.physicalLayoutSetting) {
+            ForEach(PhysicalLayoutSetting.allCases) { option in
+                Text(option == .automatic ? "Automatic (\(state.detectedPhysicalLayout.title))" : option.title)
+                    .tag(option)
+            }
+        }
         Picker("Caps Lock Label", selection: $state.capsLockLabel) {
             ForEach(CapsLockLabel.allCases) { option in
                 Text(option.title).tag(option)

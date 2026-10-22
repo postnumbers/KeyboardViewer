@@ -41,6 +41,29 @@ enum KeyboardLayoutReader {
         return map
     }
 
+    /// The shape of the keyboard last typed on: ISO or ANSI. JIS and unknown
+    /// keyboards are drawn as ANSI. With Karabiner-Elements running, this is
+    /// the type its virtual keyboard is set to.
+    static func detectedPhysicalLayout() -> PhysicalLayout {
+        let type = KBGetLayoutType(Int16(LMGetKbdType()))
+        return type == PhysicalKeyboardLayoutType(kKeyboardISO) ? .iso : .ansi
+    }
+
+    /// What's printed on each character key for the current input layout:
+    /// "A" for a, "Q" on the A key with AZERTY, "§" on the ISO key left of 1.
+    static func keyLegends() -> [String: String] {
+        var result: [String: String] = [:]
+        withLayout { layout in
+            for name in KeyCodes.characterKeys {
+                guard let code = KeyCodes.byName[name] else { continue }
+                let text = translate(layout, key: code, modifiers: [], noDeadKeys: true).text
+                guard isPrintable(text) else { continue }
+                result[name] = text.uppercased().count == 1 ? text.uppercased() : text
+            }
+        }
+        return result
+    }
+
     /// One binding per key on its own and with ⇧: the character it types,
     /// e.g. "a" and "A", "[" and "{".
     static func typedCharacterBindings() -> [KeyBinding] {

@@ -93,7 +93,8 @@ enum SectionPalette {
         return result
     }
 
-    /// "[HyperIJKL] Text Editing (subset)" → "Text Editing"
+    /// Drops a leading "[tag]" and a trailing "(note)" from a rule name:
+    /// "[Set] Text Editing (subset)" → "Text Editing"
     static func displayName(_ ruleName: String) -> String {
         var s = ruleName.trimmingCharacters(in: .whitespaces)
         if s.hasPrefix("["), let close = s.firstIndex(of: "]") {

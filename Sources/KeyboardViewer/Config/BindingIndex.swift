@@ -109,10 +109,14 @@ struct BindingIndex {
                 }
 
                 let output = Describe.output(tos)
-                // Fall back to the rule's description: the underscore rule's
-                // manipulators have none, but the rule is "shift + spacebar -> underscore".
+                // Without its own description, a manipulator borrows the rule's
+                // if that reads "keys -> action" (the underscore rule is
+                // "shift + spacebar -> underscore"). A plain rule name like
+                // "Applications" would say nothing about the key, so then the
+                // output is shown instead.
+                let ruleDescription = rule.description.flatMap { $0.contains("->") ? $0 : nil }
                 let title = Describe.title(
-                    description: m.description ?? rule.description,
+                    description: m.description ?? ruleDescription,
                     fallback: output.detail
                 )
 

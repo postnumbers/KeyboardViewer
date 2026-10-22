@@ -1,7 +1,7 @@
 [project]
 name = "keyboardviewer"
-version = "0.1.0"
-description = "Add your description here"
+version = "0.2.0"
+description = "floating app that shows keyboard shortcuts available on a keyboard"
 readme = "README.md"
 authors = [
     { name = "postnumbers", email = "post@postnumbers.com" }

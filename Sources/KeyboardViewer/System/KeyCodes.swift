@@ -2,9 +2,10 @@ import Foundation
 
 /// macOS virtual key codes (kVK_*) for the keys the overlay draws, keyed by the
 /// Karabiner key_code names the layout uses. Virtual key codes identify a
-/// physical key position (ANSI), independent of the keyboard layout.
+/// physical key position, independent of the input language.
 enum KeyCodes {
     static let byName: [String: UInt16] = [
+        "non_us_backslash": 0x0A,   // ISO: § left of 1 (kVK_ISO_Section)
         "a": 0x00, "s": 0x01, "d": 0x02, "f": 0x03, "h": 0x04, "g": 0x05,
         "z": 0x06, "x": 0x07, "c": 0x08, "v": 0x09, "b": 0x0B, "q": 0x0C,
         "w": 0x0D, "e": 0x0E, "r": 0x0F, "y": 0x10, "t": 0x11,
@@ -27,7 +28,7 @@ enum KeyCodes {
 
     /// Keys that type a character, in keyboard order.
     static let characterKeys: [String] =
-        ["grave_accent_and_tilde"] + "1234567890".map(String.init) + ["hyphen", "equal_sign"]
+        ["non_us_backslash", "grave_accent_and_tilde"] + "1234567890".map(String.init) + ["hyphen", "equal_sign"]
         + "qwertyuiop".map(String.init) + ["open_bracket", "close_bracket", "backslash"]
         + "asdfghjkl".map(String.init) + ["semicolon", "quote"]
         + "zxcvbnm".map(String.init) + ["comma", "period", "slash"]

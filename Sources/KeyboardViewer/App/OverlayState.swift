@@ -44,6 +44,23 @@ final class OverlayState: ObservableObject {
         didSet { UserDefaults.standard.set(capsLockLabel.rawValue, forKey: "capsLockLabel") }
     }
 
+    /// Keyboard shape: detected, or set in the menu. Remembered between launches.
+    @Published var physicalLayoutSetting = PhysicalLayoutSetting(rawValue: UserDefaults.standard.string(forKey: "physicalLayout") ?? "") ?? .automatic {
+        didSet { UserDefaults.standard.set(physicalLayoutSetting.rawValue, forKey: "physicalLayout") }
+    }
+    @Published var detectedPhysicalLayout: PhysicalLayout = .ansi
+
+    var physicalLayout: PhysicalLayout {
+        switch physicalLayoutSetting {
+        case .automatic: return detectedPhysicalLayout
+        case .ansi: return .ansi
+        case .iso: return .iso
+        }
+    }
+
+    /// Key names for the current input layout ("Q" on the A key with AZERTY).
+    @Published var keyLegends: [String: String] = [:]
+
     /// Name of a running app that makes Caps Lock a Hyper key (Hyperkey…).
     @Published var hyperKeyApp: String?
 
@@ -66,7 +83,8 @@ final class OverlayState: ObservableObject {
 
     /// What's printed on the key.
     func legend(for def: KeyDef) -> String {
-        isHyperKey(def.code) ? "Hyper" : def.legend
+        if isHyperKey(def.code) { return "Hyper" }
+        return keyLegends[def.code] ?? def.legend
     }
 
     /// A Hyper key is lit while the Hyper layer is open, or, when it works by

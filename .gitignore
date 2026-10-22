@@ -13,4 +13,11 @@ wheels/
 *.spec
 
 # disk images
-dmg/
+*.dmg
+
+# Swift build output
+.build/
+KeyboardViewer.app/
+
+# Track the disk image scripts (the global ~/.gitignore ignores dmg/)
+!dmg/

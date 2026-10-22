@@ -1,5 +1,5 @@
 {
-    "_comment": "Two rules to merge into karabiner.json. 1) Replace the first manipulator of '[HyperIJKL] Capslock to Hyper' with the one below (same behaviour, plus it tells the overlay when Hyper goes down and up). 2) Add the 'KeyboardViewer' rule anywhere in complex_modifications.rules. The rule's second manipulator (Hyper + shift + /) switches app & system shortcuts on and off.",
+    "_comment": "Two rules to merge into karabiner.json. 1) Replace the manipulator that turns Caps Lock into Hyper with the one below (same behaviour, plus it tells the overlay when Hyper goes down and up). 2) Add the 'KeyboardViewer' rule anywhere in complex_modifications.rules. The rule's second manipulator (Hyper + shift + /) switches app & system shortcuts on and off.",
     "replacement_capslock_manipulator": {
         "description": "capslock (press) -> esc; capslock (hold) -> Hyper",
         "from": {
